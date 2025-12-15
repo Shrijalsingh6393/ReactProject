@@ -1,0 +1,41 @@
+.container {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.faqItem {
+  border: 1px solid #999;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.question {
+  padding: 15px;
+  background: #eee;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.question:hover {
+  background: #ddd;
+}
+
+.answer {
+  max-height: 0;
+  overflow: hidden;
+  padding: 0 15px;
+  background: white;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+
+.open {
+  max-height: 200px; /* enough space for answers */
+  padding: 15px;
+}

@@ -1,0 +1,94 @@
+.mystyle{
+    background-color: white;
+}
+
+
+.mystyle1{
+    background-color: aliceblue;
+    border : 5px dotted aliceblue;
+    border-radius : 30px;
+    font-style : italic;
+}
+
+.mystyle2{
+    display: flex;
+}
+
+#i1{
+    background-color: pink;
+    color:black;
+    border : 2px solid black;
+    border-radius : 10px;
+    margin : 6px;
+    font-style: italic;
+    width: 130px;
+    height: 100px;
+}
+
+#i2{
+    background-color: rgb(104, 216, 104);
+    color:black;
+    border : 2px solid black;
+    border-radius : 10px;
+    margin : 6px;
+    font-style: italic;
+    width: 130px;
+    height: 100px;
+    
+}
+
+#i3{
+    background-color: yellowgreen;
+    color:black;
+    border : 2px solid black;
+    border-radius : 10px;
+    margin : 6px;
+    font-style: italic;
+    width: 130px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+/* using props */
+
+/* 
+.mystyle1{
+    background-color: aliceblue;
+    border : 5px dotted aliceblue;
+    border-radius : 30px;
+    font-style : italic;
+}
+
+.mystyle2{
+    display: flex;
+}
+
+.foodBox{
+    color:black;
+    border : 2px solid black;
+    border-radius : 10px;
+    margin : 6px;
+    font-style: italic;
+    width: 130px;
+    height: 100px;
+}
+
+#i1{
+    background-color: pink;
+}
+
+#i2{
+    background-color: rgb(104, 216, 104);
+    
+}
+
+#i3{
+    background-color: yellowgreen;
+} */

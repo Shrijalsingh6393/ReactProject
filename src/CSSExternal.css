@@ -1,0 +1,19 @@
+
+.container{
+    color : brown;
+    background-color : aqua;
+    border : 3px dotted blue;
+    border-radius : 20px;
+    font-style : italic;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.cont{
+    color : blueviolet;
+    background-color : yellow;
+    border : 3px dashed red;
+    border-radius : 20px;
+    font-style : bold;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
